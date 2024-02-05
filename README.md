@@ -1,1 +1,2 @@
-# Sign in via a small chunk of voice recording
+# Sign in via a small chunk of voice recording.
+# Used SpeechBrain
